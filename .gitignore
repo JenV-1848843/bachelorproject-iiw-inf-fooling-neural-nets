@@ -1,3 +1,7 @@
 .idea/
 .venv/
 datasets/
+.ipynb_checkpoints/
+data/
+notes.txt
+runs/
